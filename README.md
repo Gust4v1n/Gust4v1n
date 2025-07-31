@@ -1,16 +1,16 @@
-## Hi there 👋
+</div>
+<hr>
 
-<!--
-**Gust4v1n/Gust4v1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram Icon](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://example.com)
+[![Discord Icon](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://example.com)
+[![Instagram Icon](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Guszonan)
+[![Discord Icon](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg)
 
-Here are some ideas to get you started:
+<img align="center" height="240" width="180" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> 
+    👋 hi dear, I'm Gustavo <br>
+    🌱 I’m currently learning Javascript <br>
+    💬 Ask me about C++
+</h1>
