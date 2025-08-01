@@ -39,6 +39,11 @@
 <img align="center" height="240" width="180" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
 <hr>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gust4v1n/Gust4v1n/output/snake.svg" alt="Snake animation" />
+alt="Snake animation" />
+
 <h1> 
     👋 hi dear, I'm Gustavo <br>
     🌱 I’m currently learning Javascript <br>
