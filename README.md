@@ -24,6 +24,10 @@
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4v1n&layout=compact&font=Iosevka&langs_count=16&theme=shadow_red"
   />
+<br>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gust4v1n&theme=&bg_color=1f1f1f&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true&radius=16)](https://github.com/Gust4v1n/github-readme-activity-graph)
+
   </div>
 
 
