@@ -1,4 +1,17 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gust4v1n&theme=shadow_red)](https://github.com/Gust4v1n/Aula-Readme)
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=Gust4v1n&show_icons=true&count_private=true&rank_icon=github&theme=shadow_red&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4v1n&layout=compact&font=Iosevka&langs_count=16&theme=shadow_red"
+  />
+  </div>
 
 
 <div style="display: inline_block"><br>
