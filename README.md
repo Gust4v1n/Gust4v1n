@@ -11,7 +11,7 @@
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4v1n&layout=compact&font=Iosevka&langs_count=16&theme=shadow_red"
   />
-  </div>
+
 
 
 <div style="display: inline_block"><br>
@@ -31,3 +31,4 @@
     🌱 I’m currently learning Javascript <br>
     💬 Ask me about C++
 </h1>
+  </div>
