@@ -45,11 +45,10 @@
 <img align="center" height="240" width="180" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
 <hr>
 
-
-
-<h1> 
-    👋 hi dear, I'm Gustavo <br>
-    🌱 I’m currently learning Javascript <br>
-    💬 Ask me about C++
-</h1>
-  </div>
+<img src="https://media.tenor.com/xCokliHMJV0AAAAi/mewtow-pok%C3%A9mon.gif">
+    <h1> 
+        👋 hi dear, I'm Gustavo <br>
+        🌱 I’m currently learning Javascript <br>
+        💬 Ask me about C++
+    </h1>
+</div>
