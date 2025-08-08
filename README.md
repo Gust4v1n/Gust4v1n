@@ -11,8 +11,29 @@
   </summary>
   
   <br>
+  
 <div align="center">
-  <img
+
+
+<img src="https://media.tenor.com/xCokliHMJV0AAAAi/mewtow-pok%C3%A9mon.gif">
+    <h1> 
+        👋 hi dear, I'm Gustavo <br>
+        🌱 I’m currently learning Javascript <br>
+        💬 Ask me about C++
+    </h1>
+</div>
+
+<div style="display: inline_block"><br>
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+</div>
+<hr>
+
+<div class="container">
+  <details>
+    <summary><samp><b>Statistics</b></samp></summary>
+    <div class="info">
+       <img
     height=165
     align="center"
     alt="GitHub Stats"
@@ -29,26 +50,22 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gust4v1n&theme=&bg_color=1f1f1f&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true&radius=16)](https://github.com/Gust4v1n/github-readme-activity-graph)
 
   </div>
+    </divalign="center">
+  </details>
 
-
-<div style="display: inline_block"><br>
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-</div>
-<hr>
-
+  <details>
+    <summary><samp><b>Social Midia</b></samp></summary>
+    <div class="info" >
+    
 [![Instagram Icon](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Guszonan)
 [![Discord Icon](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/1103523332084731914)
+    </div>
+  </details>
+</div>
+
+
 
 
 
 <img align="center" height="240" width="180" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
 <hr>
-
-<img src="https://media.tenor.com/xCokliHMJV0AAAAi/mewtow-pok%C3%A9mon.gif">
-    <h1> 
-        👋 hi dear, I'm Gustavo <br>
-        🌱 I’m currently learning Javascript <br>
-        💬 Ask me about C++
-    </h1>
-</div>
